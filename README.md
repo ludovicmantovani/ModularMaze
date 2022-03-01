@@ -5,10 +5,10 @@ Dans ce projet, on tire profit du caractère modulaire des différents modèles 
 La galerie permet de visualiser chaque modèle individuellement.
 
 ## Screen
-![]("./Images/Capture1.PNG")
-![]("./Images/Capture2.PNG")
-![]("./Images/Capture3.PNG")
-![]("./Images/Capture4.PNG")
+![](./Images/Capture1.PNG)
+![](./Images/Capture2.PNG)
+![](./Images/Capture3.PNG)
+![](./Images/Capture4.PNG)
 
 ## Versions jouable
 En ligne : [https://ludovic330.itch.io/maze](https://ludovic330.itch.io/maze)  
