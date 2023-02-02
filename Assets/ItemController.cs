@@ -26,4 +26,9 @@ public class ItemController : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public void SetGameManager(GameManager gameManager)
+    {
+        _gameManager = gameManager;
+    }
 }

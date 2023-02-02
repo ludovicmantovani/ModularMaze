@@ -393,6 +393,7 @@ namespace _Script.Generator
                     _itemsMap.Add(new MapLocation(randomX, randomZ));
                     _pos.Set(randomX * _scale, -1f, randomZ * _scale);
                     GameObject go = Instantiate(_itemPrefab, _pos, Quaternion.identity, _mazeGeneration.transform);
+                    go.GetComponent<ItemController>().SetGameManager(_gameManager);
                 }
             }
         }
